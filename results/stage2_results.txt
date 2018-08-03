@@ -1,0 +1,17 @@
+executor 4 core 2
+d-80 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2121/jobs/
+d-80 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2117/executors/
+d-50 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2114/executors/
+d-50 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2115/executors/
+
+executor 4 core 1
+d-80 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2148/stages/
+d-80 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2138/executors/
+d-50 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2126/stages/
+d-50 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2130/stages/
+
+executor 5 core 2
+d-80 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2073/executors/
+d-80 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2072/stages/
+d-50 k-5 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_1707/stages/
+d-50 k-10 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2071/executors/

@@ -1,0 +1,1 @@
+spark-submit   --master yarn 	--deploy-mode client   --num-executors 4   --executor-cores 1   kNN_Implementation_final.py   --input hdfs://soit-hdp-pro-1.ucc.usyd.edu.au/share/MNIST/   --d 80   --k 10

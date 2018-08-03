@@ -1,0 +1,10 @@
+decision tree: max_depth:12 minInstancesPerNode:5
+all features: 87.33 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2281/executors/
+pca - 20: 82.72 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2297/executors/
+pca - 200: 82.23 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2294/executors/
+
+multilayer perceptron:
+hidden layer size:
+50: 93.01 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2247/jobs/
+70: 93.88 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2244/jobs/
+100: 94.67 http://soit-hdp-pro-1.ucc.usyd.edu.au:18080/history/application_1527467200287_2243/jobs/
